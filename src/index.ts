@@ -10,7 +10,7 @@ interface SpacesModifier {
 }
 
 export class Uwuifier {
-  public faces: string[] = [`(・\`ω´・)`, `;;w;;`, `owo`, `UwU`, `>w<`, `^w^`, `ÚwÚ`, `:3`, `x3`];
+  public faces: string[] = [':3', 'x3', 'owo', 'OwO', 'uwu', 'UwU'];
   public exclamations: string[] = [`?!!`, `?!?1`, `!!11`, `?!?!`, `!?`];
   public actions: string[] = [
     `*blushes*`,
